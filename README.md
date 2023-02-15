@@ -1,8 +1,9 @@
 # DjangoAssignment
 
-Django - For Python Web Framework  
-PostgreSQL - For Database
-Graphene - For GraphQL
+Django - For Python Web Framework   
+PostgreSQL - For Database  
+Graphene - For GraphQL  
+
 
 step - 1
   In postgres(pgAdmin), create new database name "indian_banks" with username and password.
