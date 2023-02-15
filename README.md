@@ -11,6 +11,7 @@ Graphene - For GraphQL
            python manage.py inspectdb > models.py    
 5 -  Installed graphene in django project, created a schema.py in django app and edited the file, In urls.py add the path "gql" for graphQl calls   
 
+Usage  
 
 step - 1  
 
