@@ -5,17 +5,17 @@ PostgreSQL - For Database
 Graphene - For GraphQL
 
 step - 1
-  In postgres(pgAdmin) create new database name "indian_banks" with username and password.
+  In postgres(pgAdmin), create new database name "indian_banks" with username and password.
 
-  In psql, connect to the database 
+  In psql(SQL Shell), connect to the 'indian_banks' database 
   
-    run the below command to execute sql file.
+    Run the below command to execute sql file.
  
     \i  /<file address>/indian_banks.sql
     
 step - 2
 
-  In cmd, cd to project directory
+  In CMD, cd to project directory
   
   To run the Django project
     
